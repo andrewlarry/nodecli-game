@@ -15,8 +15,9 @@ const play = async () => {
   console.clear();
   if (!playGame) return; 
  
-  console.log("Let's play!");
+  console.log("Let's play!")
 
+  // Add code here
 }
 
 play();
